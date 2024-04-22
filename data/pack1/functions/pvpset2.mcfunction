@@ -1,3 +1,4 @@
+#verβ0.0.2
 tell @p 装備付与プロトコル実行
 #実行確認テキスト
 clear @a[tag=pvp]

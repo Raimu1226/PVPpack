@@ -1,3 +1,4 @@
+#verβ0.0.2
 gamerule commandBlockOutput false
 #コマンドログを消す
 gamerule doMobSpawning false

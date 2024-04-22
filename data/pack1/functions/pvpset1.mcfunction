@@ -1,3 +1,4 @@
+#verβ0.0.2
 tell @p PVP用セットアップを開始します
 #コマンド実行確認用
 setblock 5 -60 5 chest

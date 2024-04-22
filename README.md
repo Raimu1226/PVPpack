@@ -3,6 +3,7 @@
 
 シンプルなダイヤ防具一式と剣・斧・弓・盾・火打石・肉・回復薬のPVPセットです  
 Java Edition ver1.20.3・1.20.4対応となります  
+version:β0.0.2
 Production by LunaMist/Raimu1226  
 
 --- 
