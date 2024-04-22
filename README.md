@@ -1,7 +1,10 @@
 # pvppack
 ---
+
 シンプルなダイヤ防具一式と剣・斧・弓・盾・火打石・肉・回復薬のPVPセットです  
-Java Edition ver1.20.3・1.20.4対応となります 
+Java Edition ver1.20.3・1.20.4対応となります  
+Production by LunaMist/Raimu1226  
+
 --- 
 * 導入方法  
 ・<u>シングルプレイの場合</u>  
